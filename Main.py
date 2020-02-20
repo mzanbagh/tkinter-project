@@ -15,11 +15,11 @@ root.geometry("500x500")
 # it calls for the following function to print success as a label
 # 2 sets of name; vin; address; phone; label and entry. Submit and exit button
 def new_registration():  
-    global name_entry
-    global vin_entry
-    global page1
-    global address_entry
-    global phone_entry
+    # global name_entry
+    # global vin_entry
+    # global page1
+    # global address_entry
+    # global phone_entry
     page1 = Toplevel()
     page1.geometry("800x800")
     new_welcome_note = Label(page1, text= "Welcome to New Vehicle Registration Form \n Please fill the following information", font=(20))
