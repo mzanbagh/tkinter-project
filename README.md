@@ -1,3 +1,6 @@
 # tkinter-project
 
-<image src ="C:\Users\Mersad\Desktop\Project\tkinter-project\SreenShots\A.png">
+<p><image src ="ScreenShots\A.png">
+<br>
+<br>
+<p><image src ="ScreenShots\B.png">
